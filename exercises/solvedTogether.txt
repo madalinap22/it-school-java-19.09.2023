@@ -16,3 +16,7 @@ Sample Pattern :
    J   a a   v   v  a a
 J  J  aaaaa   V V  aaaaa
  JJ  a     a   V  a     a
+
+1. Write a Java program to get a number from the user and print whether it is positive or negative.
+
+3. Write a Java program that takes three numbers from the user and prints the greatest number.

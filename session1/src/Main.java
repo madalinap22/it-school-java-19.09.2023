@@ -3,7 +3,15 @@ package session1.src;
 public class Main {
 
     public static void main(String[] args) {
-        //a. -5 + 8 * 6
+//        3. Write a Java program to print the results of the following operations.
+//        Challenge: Try to guess the result before running the program, so you can observe the operators' precedence.
+//
+//        Test Data:
+//        a. -5 + 8 * 6
+//        b. (55+9) % 9
+//        c. 20 + -3*5 / 8
+//        d. 5 + 15 / 3 * 2 - 8 % 3
+
         int x = -5;
         int y = 8;
         int z = 6;
@@ -67,6 +75,7 @@ public class Main {
         System.out.println("a2 = " + a2);
         System.out.println();
 
+        //6. Write a Java program to swap two variables (the three glass riddle).
         int a3 = a1;
         a1 = a2;
         a2 = a3;
@@ -77,6 +86,13 @@ public class Main {
         String str1 = "21";
         System.out.println("21" + 1);
 
+//        8. Write a Java program to display the following pattern.
+//                Sample Pattern :
+//
+//        J    a   v     v  a
+//        J   a a   v   v  a a
+//     J  J  aaaaa   V V  aaaaa
+//      JJ  a     a   V  a     a
         System.out.println();
         System.out.println("   J    a   v     v  a ");
         System.out.println("   J   a a   v   v  a a");

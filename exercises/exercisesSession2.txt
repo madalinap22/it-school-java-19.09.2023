@@ -1,0 +1,58 @@
+1. Take the values of length and breadth of a rectangle from the user and check if it is square or not.
+
+2. Write a Java program to check whether a given number is even or odd.
+
+3. Write a Java program to read the age of a candidate and determine whether he is eligible to cast his/her own vote.
+    // hint: older than 18 yo.
+
+4. Write a Java program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0.
+    // hint: when m = -5; then n = -1; because m < 0;
+
+5. Write a Java program to accept the height of a person in centimeters and categorize the person according to their height.
+    // hint: The categories are up to you, might be like short, average, tall etc...
+
+6. Write a Java program to check whether a triangle is Equilateral, Isosceles or Scalene.
+    // hint: read from the keyboard values for all three sides and follow the below rules to identify the triangle type.
+       Equilateral triangle: An equilateral triangle is a triangle in which all three sides are equal.
+       Isosceles triangle: An isosceles triangle is a triangle that has two sides of equal length.
+       Scalene triangle: A scalene triangle is a triangle that has three unequal sides
+
+7. Write a Java program to check whether a triangle can be formed with the given values for the angles.
+    // hint: read three angles from the keyboard. The sum of angles in a triangle must be 180 degrees.
+
+7. A shop will give a discount of 10% if the cost of purchased quantity is more than 1000.
+   Ask user for quantity
+   Suppose, one unit will cost 100.
+   Judge and print total cost for user.
+
+8. Write a program to check whether an entered character is lowercase (a to z) or uppercase (A to Z).
+    // hint: use char ch = scanner.next().charAt(0); in order to read a char using Scanner.
+    // hint: Use ASCII Codes Table to identify the lowercase and uppercase characters.
+
+9. Write a Java program to check whether a character is an alphabet, digit or special character.
+    // hint: use ASCII Codes Table to identify the letters.
+
+10. Write a Java program to read any day number in integer and display the day name in word format.
+    // hint: input is 1 then the answer should be Monday.
+
+11. Write a program in Java to read any digit and display it in the word.
+    // hint: input is 1 then the answer should be One.
+
+// EXTRA
+
+12. Write a program in Java which is a Menu-Driven Program to perform a simple calculation.
+    // Example output:
+
+    Enter the first Integer: 10
+    Enter the second Integer: 2
+
+    Input your option:
+    1-Addition.
+    2-Substraction.
+    3-Multiplication.
+    4-Division.
+    5-Exit.
+    3
+    The Multiplication of 10 and 2 is: 20
+
+    // In the above output, 10 and 2 are input from user, but also the option number (being 3).

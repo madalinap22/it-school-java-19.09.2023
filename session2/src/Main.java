@@ -126,6 +126,7 @@ public class Main {
         // This statement is asking the user to type in an integer value.
         // If the input's data type is not the desired one, then this line of code will generate an Exception.
         // There are multiple variants of this method for all kinds of data types (short, byte, long etc...)
+        //1. Write a Java program to get a number from the user and print whether it is positive or negative.
         int nextInt = scanner.nextInt();
 
         if (nextInt < 0) {
@@ -137,6 +138,7 @@ public class Main {
         System.out.println();
         System.out.println();
 
+        //3. Write a Java program that takes three numbers from the user and prints the greatest number.
         System.out.print("Please type in the first number: ");
         int nr_1 = scanner.nextInt();
         System.out.print("Please type in the second number: ");
