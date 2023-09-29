@@ -1,0 +1,42 @@
+1. Write a program to print numbers from 1 to 10.
+2. Write a program to calculate the sum of first 10 natural number.
+3. Write a program to find the factorial value of any number entered through the keyboard.
+Example: !5 = 1 * 2 * 3 * 4 * 5.
+In this example please don't confuse the factorial sign (!) used in math with the negate operator.
+
+4. Write a program that reads a set of integers, and then prints the sum of the even and odd integers.
+
+5. Write a program that prompts the user to input a positive integer. It should then print the multiplication table of that number.
+6. Two numbers are entered through the keyboard. Write a program to find the value of one number raised to the power of another.
+7. Write a program to display a pattern like a right angle triangle with a number.
+Example:
+1
+12
+123
+1234
+
+8. Write a program that prints the product of the first n odd natural numbers.
+Example:
+1 * 2 * 3 etc...
+
+9. Write a program to make such a pattern like a right angle triangle with a number which will repeat a number in a row.
+Example:
+1
+22
+333
+4444
+
+10. Write a program that displays the first n square numbers and their sum.
+Example: 1 4 9 16 etc...
+
+11. Write a program to check whether a given number is a 'Perfect' number or not.
+The sum of its divisors is equal to the number itself excluding the number.
+Example: 6
+Divisors: 1, 2, 3
+Sum of Divisors: 1 + 2 + 3 = 6;
+
+12. Write a program to find the 'Perfect' numbers within a given number of ranges.
+
+13. Write a program to print Fibonacci series of n terms where n is input by user:
+Example:
+0 1 1 2 3 5 8 13 24 .....
