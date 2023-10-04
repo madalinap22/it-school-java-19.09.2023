@@ -1,0 +1,38 @@
+// hint for all exercises: initialize an array with random values, see the session4.Main class.
+                            always print the resulted array/matrix.
+
+1. Write a Java program to find the index of an array element.
+
+2. Write a Java program to copy an array by iterating the array.
+// hint: Don't use Arrays.copyOf().
+
+3. Write a Java program to insert an element (specific position) into an array.
+// hint: create a new array with old array's length + 1 and insert the element on the required position.
+        please print the elements of the new created array.
+
+4. Write a Java program to find the maximum and minimum value of an array.
+// hint: initialize the minimum with a very big number, and the maximum with a very small value.
+
+5. Write a Java program to reverse an array of integer values.
+// hint: play around with the statements and conditions used within the 'for' statement.
+        for (i = arr.length; ....; i--)...
+
+6. Write a Java program to find common elements between two integer arrays.
+// hint: you can use a for in for.
+
+7. Write a Java program which stores in another array the even numbers from a given array.
+// hint: store the newly created array current length in an in variable.
+
+8. Iterate and print each element from a matrix.
+// hint: check the session4.Main file.
+
+9. Print the elements from the main diagonal in a matrix.
+// hint: check the indexes/indices of 'i' (row) and 'j' (column)
+
+10. Print the elements from the secondary diagonal in a matrix.
+
+11. Print the sum of the elements above the main diagonal (all of them, not only the first 'semi-diagonal').
+
+12. Write a Java program to move all 0's to the end of an array. Maintain the relative order of the other (non-zero) array elements.
+
+
