@@ -26,6 +26,5 @@ replay_pid*
 # IntelliJ IDEA files
 .idea
 *.iml
-./*/.gitignore
 
 out
