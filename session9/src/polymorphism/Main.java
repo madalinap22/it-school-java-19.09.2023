@@ -81,12 +81,16 @@ class Cat extends Animal {
         System.out.println("meow");
     }
 
+    // we can have multiple methods with the same name,
+    // while they have different number of parameters
+
+    //Method Signature is the combination of a method's name and its parameter list.
     public void sayHello() {
         System.out.println("Hello");
     }
 
-    public String sayHello(int x) {
-        return "String " + x;
+    public void sayHello(int x) {
+        System.out.println("String " + x);
     }
 
     public void sayHello(int x, int y) {
