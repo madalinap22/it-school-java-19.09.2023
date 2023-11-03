@@ -37,5 +37,5 @@
 37. Write a Java program to get the portion of a map whose keys are strictly less than a given key.
 38. Write a Java program to get a key-value mapping associated with the greatest key strictly less than the given key. Return null if there is no such key.
 39. Write a Java program to iterate through any kind of map using keySet().
-39. Write a Java program to iterate through any kind of map using entrySet().
-39. Write a Java program to iterate through any kind of map using forEach().
+40. Write a Java program to iterate through any kind of map using entrySet().
+41. Write a Java program to iterate through any kind of map using forEach().
